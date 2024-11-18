@@ -7,5 +7,5 @@
 
 ## Free DNS Services
 
-| Name | DNS Services | DNSSEC | IPv6 | Privacy Policy / Logs |
-|------|--------------|--------|------|-----------------------|
+| Name | DNS Services | DNSSEC | IPv6 | Logs | 3rd Party DNS |
+|------|--------------|--------|------|------|---------------|
